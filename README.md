@@ -10,10 +10,10 @@ This application should use GUI elements to show the player their cards. You may
 
 ## Example Output
 
-![Sample Output](BlackJack\\images\\README.JPG)
-![Sample Output](BlackJack\\images\\README2.JPG)
-![Sample Output](BlackJack\\images\\README3.JPG)
-![Sample Output](BlackJack\\images\\README4.JPG)
+![alt text](BlackJack\\images\\README.JPG)
+![alt text](BlackJack\\images\\README2.JPG)
+![alt text](BlackJack\\images\\README3.JPG)
+![alt text](BlackJack\\images\\README4.JPG)
 
 ## Analysis Steps
 
