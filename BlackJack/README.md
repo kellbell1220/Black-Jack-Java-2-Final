@@ -10,10 +10,10 @@ This application should use GUI elements to show the player their cards. You may
 
 ## Example Output
 
-![alt text](images\\README.JPG)
-![alt text](images\\README2.JPG)
-![alt text](images\\README3.JPG)
-![alt text](images\\README4.JPG)
+![Sample Output](images/README.JPG)
+![Sample Output](images/README2.JPG)
+![Sample Output](images/README3.JPG)
+![Sample Output](images/README4.JPG)
 
 ## Analysis Steps
 
